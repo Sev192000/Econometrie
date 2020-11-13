@@ -1,2 +1,6 @@
-hello everybody
+data = read.table("Yang2016.RData", sep = ";", header = T)
+data
+
+
+
 hi
