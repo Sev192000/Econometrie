@@ -1,1 +1,1 @@
-data = read.csv("Yang2016.RData", header = T, sep = ";")
+Database <- read.table(file.choose("Yang2016.RData"), header = TRUE, sep = ",")
