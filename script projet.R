@@ -1,1 +1,4 @@
-Database <- read.table(file.choose("Yang2016.RData"), header = TRUE, sep = ",")
+data = read.csv("Yang2016.csv", header = T, sep = ";")
+data
+
+#est-ce que ça marche?
