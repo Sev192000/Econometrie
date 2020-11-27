@@ -1,3 +1,4 @@
+#ouverture des données
 data = read.csv("Yang2016.csv", header = T, sep = ",")
 data
 head(data)
